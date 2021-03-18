@@ -1,0 +1,46 @@
+{
+  "entity.villager.ambient": {
+    "sounds": [
+      {
+        "name": "mob/villager/idle1"
+      },
+
+      {
+        "name": "mob/villager/idle2"
+      },
+
+      {
+        "name": "mob/villager/idle3"
+      }
+    ],
+    "subtitle": "oho"
+  },
+  "block.netherrack.step": {
+    "sounds": [
+      {
+        "name": "block/netherrack/step1"
+      },
+
+      {
+        "name": "block/netherrack/step1"
+      },
+
+      {
+        "name": "block/netherrack/step3"
+      },
+
+      { 
+        "name": "block/netherrack/step4"
+      },
+
+      {
+        "name": "block/netherrack/step5"
+      },
+
+      {
+        "name": "block/netherrack/step6"
+      }
+    ],
+    "subtitle": "munch"
+  }
+}
